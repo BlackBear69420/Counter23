@@ -1,0 +1,52 @@
+.btn{
+    border-radius: 6px;
+    height: 40px;
+    width: 10rem;
+    font-size: 20px;
+    background-color: rgb(254, 254, 251);
+}
+.counter{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    gap: 1rem;
+    
+}
+.name{
+    height: 30px;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 700;
+    border-width: 5px;
+}
+.incdec{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.btn1{
+    height: 50px;
+    width: 70px;
+    font-size: 40px;
+    justify-content: center;
+}
+.spandiv{
+    text-align: center;
+    font-size: 30px;
+    
+}
+.btnres{
+   height: 30px;
+   font-size: 20px;
+   border-radius: 5px;
+}
+.set{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.counters{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
